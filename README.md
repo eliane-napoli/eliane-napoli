@@ -8,3 +8,5 @@
  - 💖 eu estou enteressada em aprender a programar novas linguagens.
  
  - 🌱 eu estou aprendendo recentemente a linguagens de JavaScript e scratch
+ 
+ - eu comecei recentemente as linguagens no p5.js web ...
